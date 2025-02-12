@@ -1,0 +1,51 @@
+,customerId,customer,payment,address,pending,last_day_to_pay,payment_type
+0,1,Beatrice Beldon,True,"Park Ridge, Illinois, United States",54,"Feb 18, 2025 8:17 AM",Debit
+1,2,Krishna Feldheim,True,"Cedar Park, Texas, United States",22,"Mar 13, 2025 2:34 PM",Invoice
+2,3,Charlotte Raffels,False,"Olympia, Washington, United States",65,"Mar 6, 2025 10:56 AM",Debit
+3,4,Blythe Esposi,False,"Mentor, Ohio, United States",57,"Mar 6, 2025 2:34 AM",Debit
+4,5,Angelia Rawlingson,True,"Revere, Massachusetts, United States",5,"Feb 18, 2025 2:58 AM",Invoice
+5,6,Matthew Chavey,False,"Pacifica, California, United States",3,"Mar 5, 2025 5:54 PM",Debit
+6,7,Anatola Cornish,False,"Bradenton, Florida, United States",67,"Feb 17, 2025 7:07 AM",Debit
+7,8,Sharlene Beston,True,"Dublin, California, United States",8,"Feb 19, 2025 5:37 AM",Debit
+8,9,Tom Whisker,False,"Florissant, Missouri, United States",61,"Feb 20, 2025 3:52 PM",Invoice
+9,10,Erinn Aery,True,"Des Plaines, Illinois, United States",111,"Feb 11, 2025 9:56 PM",Credit
+10,11,Briant MacCafferky,True,"Lehi, Utah, United States",52,"Mar 7, 2025 12:04 PM",Debit
+11,12,Auria Bastide,False,"Redondo Beach, California, United States",34,"Feb 10, 2025 9:00 PM",Credit
+12,13,Neron Drains,False,"Clearwater, Florida, United States",62,"Mar 11, 2025 10:14 AM",Debit
+13,14,Birch Sleite,False,"Springfield, Missouri, United States",70,"Feb 19, 2025 10:55 AM",Credit
+14,15,Niccolo Berryann,False,"Casa Grande, Arizona, United States",97,"Mar 10, 2025 7:28 AM",Debit
+15,16,Maryanna MacDowal,True,"San Luis Obispo, California, United States",93,"Mar 6, 2025 2:48 PM",Debit
+16,17,Luke Swatridge,True,"Sherman, Texas, United States",69,"Mar 16, 2025 5:43 PM",Invoice
+17,18,Bern Clutten,True,"Hesperia, California, United States",40,"Mar 19, 2025 9:39 PM",Invoice
+18,19,Aleen Durrett,False,"Hoboken, New Jersey, United States",13,"Feb 14, 2025 3:16 AM",Debit
+19,20,Fawne Carnoghan,True,"Colton, California, United States",24,"Feb 26, 2025 5:13 PM",Invoice
+20,21,Christoph Cunliffe,True,"Fremont, California, United States",15,"Feb 18, 2025 8:03 PM",Invoice
+21,22,Armin De Robertis,True,"Denton, Texas, United States",75,"Mar 5, 2025 3:45 AM",Debit
+22,23,Purcell Alvy,False,"Spokane, Washington, United States",49,"Mar 4, 2025 6:16 PM",Credit
+23,24,Tersina Bexley,True,"Enid, Oklahoma, United States",58,"Mar 10, 2025 2:18 AM",Credit
+24,25,Imogene Worviell,True,"Oxnard, California, United States",87,"Feb 24, 2025 3:08 AM",Invoice
+25,26,Daniele Kenafaque,True,"Thornton, Colorado, United States",96,"Feb 13, 2025 4:25 PM",Credit
+26,27,Valerye Brabham,False,"Kennewick, Washington, United States",100,"Feb 15, 2025 3:27 AM",Debit
+27,28,Netti Alvy,False,"Hilton Head Island, South Carolina, United States",31,"Mar 16, 2025 9:22 PM",Debit
+28,29,Pepito Ovens,True,"Lincoln, California, United States",31,"Feb 10, 2025 5:16 AM",Debit
+29,30,Hershel Morling,True,"Riverton, Utah, United States",64,"Mar 15, 2025 11:38 PM",Invoice
+30,31,Grazia Pyne,False,"Chesterfield, Missouri, United States",55,"Mar 18, 2025 11:20 PM",Debit
+31,32,Erhard Mustarde,True,"Watsonville, California, United States",9,"Mar 14, 2025 2:17 PM",Invoice
+32,33,Von Scherme,False,"North Little Rock, Arkansas, United States",81,"Mar 10, 2025 9:26 AM",Debit
+33,34,Will Cameli,False,"Thornton, Colorado, United States",98,"Feb 18, 2025 10:04 PM",Debit
+34,35,Marjory Masarrat,False,"Belleville, Illinois, United States",47,"Feb 28, 2025 3:00 PM",Invoice
+35,36,Angelia Neles,False,"Fayetteville, Arkansas, United States",38,"Feb 9, 2025 11:52 AM",Debit
+36,37,Sullivan Halsted,False,"Lake Elsinore, California, United States",83,"Feb 11, 2025 12:38 PM",Debit
+37,38,Pepi St. Quintin,True,"Gaithersburg, Maryland, United States",26,"Feb 16, 2025 3:13 PM",Debit
+38,39,Ruperto Matissoff,False,"Hickory, North Carolina, United States",83,"Mar 6, 2025 12:09 AM",Debit
+39,40,Krishna Leverage,True,"Chesapeake, Virginia, United States",13,"Feb 27, 2025 10:10 AM",Credit
+40,41,Berky Aldiss,True,"Cypress, California, United States",56,"Feb 9, 2025 2:44 PM",Debit
+41,42,Hildagarde McCardle,True,"Daly City, California, United States",47,"Feb 22, 2025 2:54 AM",Debit
+42,43,Cosette Antliff,True,"Coral Springs, Florida, United States",60,"Mar 4, 2025 5:48 AM",Invoice
+43,44,Charlotte Weatherburn,True,"Livermore, California, United States",112,"Feb 27, 2025 6:03 AM",Invoice
+44,45,Neda Cassell,True,"Wilmington, Delaware, United States",4,"Mar 18, 2025 2:41 PM",Debit
+45,46,Zaneta Doyle,False,"Cedar Hill, Texas, United States",30,"Feb 21, 2025 9:43 AM",Credit
+46,47,Lyndsey Brabham,False,"Cedar Park, Texas, United States",49,"Mar 7, 2025 5:41 PM",Debit
+47,48,Desdemona Galle,True,"Elizabeth, New Jersey, United States",106,"Mar 18, 2025 7:29 AM",Credit
+48,49,Hilario Handrik,False,"Charleston, South Carolina, United States",88,"Feb 17, 2025 7:48 AM",Debit
+49,50,Keane Ravillas,False,"Buffalo, New York, United States",82,"Feb 13, 2025 3:47 PM",Debit
